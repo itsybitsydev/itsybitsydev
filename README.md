@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on <TBD>
 - 📫 itsybitsydev@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I worked for San Francisco tech startup and now work for one of the big tech giants!
+- ⚡ Fun fact: I have worked SF startup, government, and for big tech as a software engineer.
 
 <!---
 itsybitsydev/itsybitsydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
